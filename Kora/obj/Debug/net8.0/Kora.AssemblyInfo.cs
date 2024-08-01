@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+052194042216fa00d86107fcc5a19615bf4d44ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57e4c030c31651729a38f00aed09ad34612bcea6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
